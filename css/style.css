@@ -41,3 +41,7 @@
   text-decoration: underline overline;
 }
 
+#sidebar {
+  position: fixed;
+  right: 0%;
+}
