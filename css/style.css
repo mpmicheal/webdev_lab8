@@ -18,3 +18,10 @@
   left: 50%;
   float: left;
 }
+
+#main-navbar ul a {
+  dispaly: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
