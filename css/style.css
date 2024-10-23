@@ -23,11 +23,11 @@
   float: left;
   position: relative;
   right: 50%;
-  dispaly: block;
+  display: block;
 }
 
 #main-navbar ul li a {
-  dispaly: block;
+  display: block;
   padding: 10px 20px;
   color: #fff;
   text-decoration: none;
