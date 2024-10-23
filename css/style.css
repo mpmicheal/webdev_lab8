@@ -19,7 +19,14 @@
   float: left;
 }
 
-#main-navbar ul a {
+#main-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  dispaly: block;
+}
+
+#main-navbar ul li a {
   dispaly: block;
   padding: 10px 20px;
   color: #fff;
